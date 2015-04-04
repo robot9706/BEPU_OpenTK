@@ -1,0 +1,7 @@
+D:\CSharp\Other\BEPU_OpenTK\OpenTK\bin\Debug\OpenTK.dll.config
+D:\CSharp\Other\BEPU_OpenTK\OpenTK\bin\Debug\OpenTK.XML
+D:\CSharp\Other\BEPU_OpenTK\OpenTK\bin\Debug\OpenTK.dll
+D:\CSharp\Other\BEPU_OpenTK\OpenTK\bin\Debug\OpenTK.pdb
+D:\CSharp\Other\BEPU_OpenTK\OpenTK\obj\Debug\OpenTK.dll
+D:\CSharp\Other\BEPU_OpenTK\OpenTK\obj\Debug\OpenTK.pdb
+D:\CSharp\Other\BEPU_OpenTK\OpenTK\obj\Debug\OpenTK.csprojResolveAssemblyReference.cache
